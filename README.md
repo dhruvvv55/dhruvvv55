@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **pateldhruv0609@gmail.com**
 
-- 📄 Know about my experiences [here](https://flowcv.com/resume/5e1o4cvnev)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/14egBdNbF1balQmUzCAi_IjYTmUGTJ2jW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
