@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Dhruv Patel</h1>
+<pre align="center">
+██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗
+██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║
+██║  ██║███████║██████╔╝██║   ██║██║   ██║
+██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝
+██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝
+</pre>
+
+<img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=dhruvvv55" width="120" alt="avatar"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Detection+Engineering;Malware+Analysis;AI+%2F+LLM+Security;MS+Cybersecurity+Engineering+%40+USC" alt="Typing SVG" />
@@ -35,7 +44,7 @@ dhruv@soc-lab:~$ ls -la ~/projects/
 |------|-------------|--------|
 | 🛡️ [soc-home-lab](https://github.com/dhruvvv55/soc-home-lab) | Wazuh SIEM + Sysmon ARM64 + custom MITRE ATT&CK detection rules + Python alert triage pipeline with VirusTotal enrichment | 🟢 operational |
 | ☁️ [cloud-threat-detection-lab](https://github.com/dhruvvv55/cloud-threat-detection-lab) | GCP IAM privilege escalation simulation + Python detection pipeline + Splunk HEC integration + SPL detection rules with scheduled alerting | 🟢 operational |
-| 🤖 [agent-injection-lab](https://github.com/dhruvvv55/agent-injection-lab) | Indirect prompt injection and data exfiltration attacks on LLM-powered agents, with mitigations and eval harness | 🟡 in progress |
+| 🤖 [agent-injection-lab](https://github.com/dhruvvv55/agent-injection-lab) | Indirect prompt injection and data exfiltration attacks on LLM-powered agents, with mitigations and eval harness | 🟢 operational |
 | 🧬 [Malware Detection CNN-LSTM](https://github.com/dhruvvv55/Malware-Detection-using-CNN-LSTM) | Hybrid CNN-LSTM model for Windows PE malware classification, 98.74% accuracy on Malimg dataset (published) | ✅ shipped |
 | 🔐 [Quantum-Resistant Payment System](https://github.com/dhruvvv55/Advancing-Security-in-Digital-Transactions-Using-Quantum-Cryptography) | FastAPI payments backend with Dilithium2 post-quantum signatures, ML fraud detection, and QKD simulation (published) | ✅ shipped |
 
