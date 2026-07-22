@@ -7,8 +7,6 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝
 </pre>
 
-<img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=dhruvvv55" width="120" alt="avatar"/>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Detection+Engineering;Malware+Analysis;AI+%2F+LLM+Security;MS+Cybersecurity+Engineering+%40+USC" alt="Typing SVG" />
 </p>
