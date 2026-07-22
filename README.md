@@ -1,11 +1,4 @@
-<pre align="center">
-██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗   ██████╗  █████╗ ████████╗███████╗██╗
-██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║   ██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██║
-██║  ██║███████║██████╔╝██║   ██║██║   ██║   ██████╔╝███████║   ██║   █████╗  ██║
-██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝   ██╔═══╝ ██╔══██║   ██║   ██╔══╝  ██║
-██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝    ██║     ██║  ██║   ██║   ███████╗███████╗
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝     ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
-</pre>
+<p align="center"><img src="https://img.shields.io/badge/DHRUV%20PATEL-0d1117?style=for-the-badge&logoColor=00FF9C" height="40"/></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Detection+Engineering;Malware+Analysis;AI+%2F+LLM+Security;MS+Cybersecurity+Engineering+%40+USC" alt="Typing SVG" />
